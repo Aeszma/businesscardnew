@@ -9,14 +9,14 @@
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		John Brown
 	</author>
-	<platform name="android" />
+	<platform name="android" >
+		<splash src="https://avatars3.githubusercontent.com/u/17802868?s=460&v=4" width="320" height="480"/>
+	</platform>
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
 	<plugin name="cordova-plugin-network-information" />
 	<plugin name="cordova-plugin-device-motion" />
 	<plugin name="cordova-plugin-splashscreen" />
-
-  <splash src="https://avatars3.githubusercontent.com/u/17802868?s=460&v=4" width="320" height="480"/>
 
 </widget>
