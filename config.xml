@@ -3,12 +3,10 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
 		id          = "myfirstapp"
         version     = "1.0.0" >
+		
+	<preference name="SplashScreen" value="screen" />
+	<preference name="SplashScreenDelay" value="10000" />
 
-    <name>First app</name>
-    <description>My first mobile app</description>
-    <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
-		John Brown
-	</author>
 	<platform name="android" >
 		<splash src="https://avatars3.githubusercontent.com/u/17802868?s=460&v=4" width="320" height="480"/>
 	</platform>
