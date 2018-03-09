@@ -3,9 +3,6 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
 		id          = "myfirstapp"
         version     = "1.0.0" >
-		
-	<preference name="SplashScreen" value="screen" />
-	<preference name="SplashScreenDelay" value="10000" />
 
 	<platform name="android" >
 <splash src="res/screen/android/cat.png" density="land-hdpi"/>
