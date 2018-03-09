@@ -8,7 +8,7 @@
 	<preference name="SplashScreenDelay" value="10000" />
 
 	<platform name="android" >
-		<splash src="img/cat.jpg" width="320" height="480"/>
+<splash src="res/screen/android/cat.png" density="land-hdpi"/>
 	</platform>
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
