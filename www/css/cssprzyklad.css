@@ -1,0 +1,15 @@
+body{
+background:black;
+width: 530px;
+margin: auto;
+color: white;
+border-top:8px solid white;
+font: 12pt tahoma;
+width: 500px;
+height:300px;
+margin-left:15px;
+border-right:1px solid #B0B0B0;
+border-left:1px solid #B0B0B0;
+border-bottom:1px solid #B0B0B0;
+align-content: center;
+}
